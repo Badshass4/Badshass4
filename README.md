@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Badshass4
-- 👀 I’m interested in Python, React JS, React Native, Node JS and Mongo DB
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and React JS
+- 👀 I’m interested in React JS, React Native, Node JS and Mongo DB
+- 🌱 I’m currently learning Node JS
+- 💞️ I’m looking to collaborate on frontend web and mobile apps build on react & node.
 - 📫 How to reach me? Mail me - badsha1695@gmail.com
 
 <!---
